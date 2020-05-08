@@ -1,8 +1,8 @@
-Example of my stramlit deployment to Heroku
+Example of my streamlit deployment to Heroku
 
 # Required files:
 1 setup.sh
 2 Procfile
 3 requirements.txt
-`find dependecies automatic
-pipreqs projectpath
+# find dependencies automatic
+by runing pipreqs app.py
