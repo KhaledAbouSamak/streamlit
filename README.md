@@ -1,4 +1,4 @@
-Example of my stramlit deployment to Heroku
+
 
 # Required files:
 1 setup.sh
